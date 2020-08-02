@@ -38,7 +38,7 @@
     "animation": {
       "id": "100",
       "name": "anim",
-      "duration": 2000,
+      "duration": 900,
       "blocks": [
         {
           "id": "101",
