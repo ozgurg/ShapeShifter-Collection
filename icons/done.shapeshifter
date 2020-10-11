@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "layers": {
+    "vectorLayer": {
+      "id": "14617",
+      "name": "done",
+      "type": "vector",
+      "width": 24,
+      "height": 24,
+      "children": [
+        {
+          "id": "14615",
+          "name": "path",
+          "type": "path",
+          "pathData": "M 4.122 12.694 L 9.007 17.578 L 20.29 6.287",
+          "strokeColor": "#000000",
+          "strokeWidth": 2,
+          "trimPathEnd": 0
+        }
+      ]
+    },
+    "hiddenLayerIds": []
+  },
+  "timeline": {
+    "animation": {
+      "id": "14619",
+      "name": "anim",
+      "duration": 500,
+      "blocks": [
+        {
+          "id": "14620",
+          "layerId": "14615",
+          "propertyName": "trimPathEnd",
+          "startTime": 0,
+          "endTime": 500,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "number",
+          "fromValue": 0,
+          "toValue": 1
+        }
+      ]
+    }
+  }
+}
