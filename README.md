@@ -1,6 +1,8 @@
-# My Shape Shifter Icons
+# My Shape Shifter Collection
 My icon collection that I created with [Shape Shifter](https://shapeshifter.design/).
 
+## Icons
+*Previews slowed down.*
 |File|Preview|
 |--|--|
 |[airplanemode_active.shapeshifter](https://github.com/ozgurg/ShapeShifter-Collection/blob/master/icons/airplanemode_active.shapeshifter)|<img src="https://raw.githubusercontent.com/ozgurg/ShapeShifter-Collection/master/previews/airplanemode_active.gif" width="100" height="100" />|
@@ -17,4 +19,4 @@ My icon collection that I created with [Shape Shifter](https://shapeshifter.desi
 ## How to use?
 - Download an icon from this repository.
 - Open [Shape Shifter](https://shapeshifter.design/).
-- Follow File > Open and choose icon that you downloaded.
+- Follow File > Open and choose the icon that you download.
